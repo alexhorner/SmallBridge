@@ -1,8 +1,16 @@
 {
     "discord_token": "my-discord-bot-token",
-    "discord_server": 845216982312547836,
+
+    "irc_network_host": "irc.myplace.net",
+    "irc_network_port": 6697,
+    "irc_network_ssl": true,
+    "irc_nickname": "SmallBridge",
+    "irc_username": "SmallBridge",
+    "irc_realname": "https://github.com/alexhorner/SmallBridge",
+
     "private_messages_discord_channel": 778078908964609882,
     "private_messages_irc_channel": "#pms",
+
     "channel_mapping": [
         {
             "irc_channel": "#home",
